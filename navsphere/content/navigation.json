@@ -84,6 +84,14 @@
           "description": "",
           "icon": "https://anyrouter.top/logo.png",
           "enabled": true
+        },
+        {
+          "id": "site_1754274173282_q5uhpo77l",
+          "title": "b",
+          "href": "www.baidu.com",
+          "description": "",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": [],
